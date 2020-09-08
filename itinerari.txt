@@ -1,0 +1,18 @@
+
+
+
+- repas arrays i diccionaris
+- app basica consola
+- global vars
+	- afegir equips
+	- iniciar lliga (crear matriu)
+	- entrar resultat de partit
+	- mostrar resultats
+	- 
+
+- intro flask
+- routes i """
+- methods
+- forms i params
+- global vars
+
